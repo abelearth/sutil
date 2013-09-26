@@ -3,20 +3,20 @@ script_utils
 
 Some utils written by Script
 
-* c2unix.sh
+* c2unix.sh  
 	convert files in svn workcopy to unix style.
-* lstree.sh
+* lstree.sh  
 	list files in tree mode. Like command *tree*, but no files listed.
-* mars.sh
+* mars.sh  
 	Translate characters to Mars language.
-* renamef.sh
+* renamef.sh  
 	Change files extension name in one folder.
-* svncls.sh
+* svncls.sh  
 	Clear files that not under svn control in a svn workcopy.	
-* svndiff.sh
+* svndiff.sh  
 	colorfull diff to modified files in svn workcopy.
-* svnfilecheck.sh
+* svnfilecheck.sh  
 	Show file details of modifyed files in svn workcopy	
-* svnfresh.sh
+* svnfresh.sh  
 	Totally fresh a svn workcopy, the result is the same as svn checkout.
 
