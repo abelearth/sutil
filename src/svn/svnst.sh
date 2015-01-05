@@ -1,1 +1,1 @@
-svn st | grep -v ^?
+svn st $@ | grep -v ^?
